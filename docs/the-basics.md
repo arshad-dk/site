@@ -1,6 +1,6 @@
 ---
 id: the-basics
-title: The Basics
+title: ARSHAD DK
 sidebar_label: The Basics
 slug: /
 ---
